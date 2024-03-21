@@ -1,0 +1,39 @@
+<html>
+    <DOCTYPE html>
+        <html>
+        <head>
+            <title>List of Things</title>
+        </head>
+        <body>
+            <h1>Done:</h1>
+            <hr>
+                <b3><b>Things that are done:</b></b3>
+                <br>
+                <br>
+                <b5>
+                    1. AVID slideshow<br>
+                </b5>
+                
+    <br>
+                <h1>Not Done</h1>
+            <hr>
+            <b>Things that are <i>not done:</i></b>
+                <br>
+                <br>
+                <b5>
+                    TMNT<br>
+                    1. My slides<br>
+                </b5>
+            <h1>In Progress</h1>
+            <hr>
+            <b><b3>Things that are <i> in progress:</i></b3><br></b>
+                    <br>
+                    <br>
+                    TMNT <br>
+                    1. My slides<br>
+                    <br>
+            <br>
+            <hr>
+                <h6><u>Updated 3/15/2024, 6:38pm</u></h6>
+        </body>
+</html>
