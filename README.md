@@ -1,1 +1,1 @@
-# VCS-Files
+# Files-of-Mania
