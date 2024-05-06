@@ -23,17 +23,17 @@ nav ul {
 }
 nav ul a {
     text-decoration: none;
-    background-color: black;
-    color: #cdcdcd;
+    background-color: rgb(19, 160, 43);
+    color: #09ff00b0;
     display: block;
     padding: 5px 10px;
-    border: 1px solid #cdcdcd;
+    border: 0px solid #00bc238d;
 }
 nav ul a:hover,
 nav ul a.active {
-    color: black;
-    background-color: #cdcdcd;
-    border: 1px solid #000;
+    color: rgba(0, 209, 35, 0.501);
+    background-color: #00810d;
+    border: 0px solid #ffbf0084;
 }
     </style>
 </head>
@@ -51,11 +51,11 @@ nav ul a.active {
         </ul>
         <p>
         The Teenage Mutant Ninja Turtles is a nickelodeon show that was created in sept.28, 2012.
-        It includes 4 mutant turtle that are fighting a powerful assassin, named the shedder.
+        It includes 4 mutant turtle that are fighting a powerful assassin, named the shredder.
         The Turtles are Leonardo, Raphael, Donatello, and Michelangelo. They hide in the shadows fighting shredder's army
         and are figuring out a way to defeat him. However, a bigger threat is rising towards earth. They
-        call themselves the Kraang, tiny alien brains that figure out a way to turn earth into a dimesion x.
-        The show takes place in New York City, the turtles live in the sewers with there rat father, splinter.
+        call themselves the Kraang, small alien brains that try to figure out a way to turn earth into dimesion x.
+        The show takes place in New York City, the turtles live in the sewers with their rat father, splinter.
         Together they are going to save their planet from any threat they face.
         </p>
         <br>
