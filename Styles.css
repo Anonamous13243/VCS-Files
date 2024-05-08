@@ -1,0 +1,31 @@
+body {
+    font-family: "Comfortaa", system-ui;
+font-weight: 400;
+font-style: normal;
+background-color: #718B5A;
+}
+nav {
+background-color: #455536;
+padding: 3px;
+}
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+}
+nav ul a {
+    text-decoration: none;
+    background-color: rgb(19, 160, 43);
+    color: #09ff00b0;
+    display: block;
+    padding: 5px 10px;
+    border: 0px solid #00bc238d;
+}
+nav ul a:hover,
+nav ul a.active {
+    color: rgba(0, 209, 35, 0.501);
+    background-color: #00810d;
+    border: 0px solid #ffbf0084;
+}
